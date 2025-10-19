@@ -32,9 +32,9 @@
 
 ## 🏆 Troféus GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matheus-ramos&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=matheus-soares&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheus-ramos&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheus-soares&theme=tokyo-night)
 
 ## 🌎 Onde me encontrar
 
