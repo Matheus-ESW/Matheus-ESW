@@ -1,17 +1,24 @@
-# 👋 Olá, eu sou o Matheus Ramos!
+# Olá, eu sou o Matheus Ramos!
 
-<div align="left">
-  💼 Data Engineer
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <span style="flex: 1; text-align: left;">Database Analyst</span>
+  <span style="flex: 1; text-align: right;">
+    <img src="https://komarev.com/ghpvc/?username=matheus-soares&color=blueviolet" alt="Profile Views"/>
+  </span>
 </div>
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=matheus-soares&color=blueviolet" alt="Profile Views"/>
-</div>
-
-🎯 Apaixonado por dados, automação e boas práticas em documentação técnica.
+<div style="text-align: left;">Data Engineer</div>
 
 ---
 
-## 🚀 Tecnologias que utilizo
+Sou Matheus Ramos, um profissional de tecnologia com 7 anos de experiência em TI, sendo 4 anos dedicados à área de dados.
+
+Atualmente tenho uma base sólida em bancos de dados, tenho experiência prática em SQL desenvolvendo procs, functions, views, na otimização das querys analisando e refatorando consultas, além disso utilizamos ETL para migração de dados entre bancos firebird e oracle, cargas de dados a partir de planilhas do excel, realizo manutenção de APIs integrados ao sistema Siagri que utilizam MongoDB.
+
+No momento estou ativamente direcionando minha carreira e experiência técnica para atuar como Engenheiro de Dados, busco desafios com o objetivo de escalar minhas habilidades em desenvolvimento, ambiente Cloud e orquestração.
+
+---
+
+## Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/> Python  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/> SQL  
@@ -21,7 +28,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheus-soares&show_icons=true&theme=tokyonight"/>
@@ -36,23 +43,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheus-soares&theme=tokyo-night)
 
-## 🌎 Onde me encontrar
+## Onde me encontrar
 
 📫 [LinkedIn](https://www.linkedin.com/in/matheus-ramos-b12b38161)  
 💻 [Portfólio](https://github.com/Matheus-ESW?tab=repositories)
-
-<!--
-## Hi there 👋
-**Matheus-ESW/Matheus-ESW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
