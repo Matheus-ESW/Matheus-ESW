@@ -32,7 +32,7 @@ No momento estou ativamente direcionando minha carreira e experiência técnica 
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheus-soares&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-soares&layout=compact&theme=tokyonight&hide=html,css,c,c++"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-soares&layout=compact&theme=tokyonight&hide=html,css,c,c%2B%2B"/>
 </div>
 
 ---
